@@ -1,8 +1,11 @@
-* {
+/*Universal*/
+* 
+{
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
+/*Semantics*/
 
 body {
     background-color: #d9dcd6;
@@ -40,7 +43,7 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* Text */
 a {
     color: #ffffff;
     text-decoration: none;
